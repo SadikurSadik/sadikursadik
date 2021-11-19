@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arafatkn&show_icons=true&count_private=true" alt="Arafat's Github Stats"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SadikurSadik&show_icons=true&count_private=true" alt="Sadikur's Github Stats"/>
 
 
 # Hello, I'm Sadikur Sadik.
@@ -22,4 +22,4 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatkn&show_icons=true&locale=en&layout=compact&count_private=true" alt="arafatkn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SadikurSadik&count_private=true" alt="arafatkn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SadikurSadik&count_private=true" alt="Sadikur Sadik" /></p>
